@@ -17,5 +17,5 @@ This script has been tested on a Raspberry Pi 1 Model B running Raspbian 10 "Bus
 ## Personal setup
 Raspberry Pi:
 - Running raspotify (which is awesome, check it out at https://github.com/dtcooper/raspotify)
-- Put tvcontrol.sh in a crontab of a seperate user ```@reboot ./tvcontrol.sh```
+- Put tvcontrol.sh in a cron job of a seperate user ```@reboot ./tvcontrol.sh```
 - The tv is always in standby (the source doesn't matter, the script marks the Pi as the active source every time it turns on the tv)
