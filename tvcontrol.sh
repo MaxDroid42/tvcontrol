@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Silence will fall! (set time in seconds of silence, before turning of the tv)
-st=3
+st=5
 
 while true
 do
